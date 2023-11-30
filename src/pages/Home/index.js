@@ -19,8 +19,6 @@ import {
 
 const Home = () => {
 
-
-
   return (
 
     <Container>
@@ -66,7 +64,7 @@ const Home = () => {
                 </Card>
 
                 <Card>
-                  <i class="devicon-git-plain colored"/>
+                  <i className="devicon-git-plain colored"/>
                   <Fade bottom>
                     <h2>Git</h2>
                   </Fade>
